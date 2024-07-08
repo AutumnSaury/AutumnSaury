@@ -5,9 +5,6 @@ College student, front-end developer.
 ![AutumnSaury's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutumnSaury&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnSaury&exclude_repo=)
-<div style="color: lightgray; font-size: 12px">
-  我啥时候写了这么多Python
-</div>
 
 ### Skills & Tools
 
